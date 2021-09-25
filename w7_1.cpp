@@ -11,11 +11,11 @@ int main(){
     // else
     //     cout<<x/y<<std::endl;
 
-    int x,y;
+    // int x,y;
 
-    freopen("text.txt","r",stdin);
-    cin>>x>>y;
-    std::cout<<x<<','<<y<<std::endl;
-
+    // freopen("text.txt","r",stdin);
+    // cin>>x>>y;
+    // std::cout<<x<<','<<y<<std::endl;
+    
     return 0;
 }   
